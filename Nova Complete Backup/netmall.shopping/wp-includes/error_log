@@ -1,0 +1,16 @@
+[30-Jul-2020 18:18:01 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/novaswtm/public_html/netmall.shopping/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-includes/class-wp-xmlrpc-server.php on line 23
+[30-Jul-2020 18:18:20 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/novaswtm/public_html/netmall.shopping/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 10:01:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/novaswtm/public_html/netmall.shopping/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 10:01:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/novaswtm/public_html/netmall.shopping/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-includes/feed-atom-comments.php on line 8
