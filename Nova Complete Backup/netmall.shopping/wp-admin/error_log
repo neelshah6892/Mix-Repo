@@ -1,0 +1,267 @@
+[12-Apr-2020 16:05:59 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 8192 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 75
+[12-Apr-2020 16:06:42 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 880640 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/wp-db.php on line 1158
+[12-Apr-2020 16:07:19 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 1778
+[12-Apr-2020 16:08:39 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/happyforms/core/classes/class-form-styles.php on line 139
+[12-Apr-2020 16:08:39 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:08:39 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Reports/Customers/DataStore.php on line 305
+[12-Apr-2020 16:08:39 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/class-phpass.php on line 1
+[12-Apr-2020 16:08:41 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Reports/Customers/DataStore.php on line 305
+[12-Apr-2020 16:08:41 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/includes/class-wc-cache-helper.php on line 44
+[12-Apr-2020 16:08:43 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Reports/Customers/DataStore.php on line 305
+[12-Apr-2020 16:08:43 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/includes/class-wc-cache-helper.php on line 44
+[12-Apr-2020 16:08:54 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Reports/Customers/DataStore.php on line 305
+[12-Apr-2020 16:08:54 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/includes/class-wc-cache-helper.php on line 44
+[12-Apr-2020 16:08:58 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Reports/Customers/DataStore.php on line 305
+[12-Apr-2020 16:08:58 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/includes/class-wc-cache-helper.php on line 44
+[12-Apr-2020 16:09:10 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Reports/Customers/DataStore.php on line 305
+[12-Apr-2020 16:09:10 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/includes/class-wc-cache-helper.php on line 44
+[12-Apr-2020 16:09:14 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Reports/Customers/DataStore.php on line 305
+[12-Apr-2020 16:09:14 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:09:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/happyforms/core/classes/class-form-styles.php on line 194
+[12-Apr-2020 16:09:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:11:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/happyforms/core/classes/class-form-styles.php on line 139
+[12-Apr-2020 16:11:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:13:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/happyforms/core/classes/class-form-styles.php on line 139
+[12-Apr-2020 16:13:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:15:35 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/happyforms/core/classes/class-form-styles.php on line 139
+[12-Apr-2020 16:15:35 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:17:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/happyforms/core/classes/class-form-styles.php on line 139
+[12-Apr-2020 16:17:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:19:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/happyforms/core/classes/class-form-styles.php on line 139
+[12-Apr-2020 16:19:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:21:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/happyforms/core/classes/class-form-styles.php on line 139
+[12-Apr-2020 16:21:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:22:43 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/happyforms/core/classes/class-form-styles.php on line 139
+[12-Apr-2020 16:22:43 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[12-Apr-2020 16:23:31 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Reports/Customers/DataStore.php on line 305
+[12-Apr-2020 16:23:31 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/novaswtm/public_html/netmall.shopping/wp-includes/version.php on line 1
+[22-Apr-2020 04:19:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/convertplug/admin/bsf-core/plugin-installer/admin-functions.php on line 58
+[22-Apr-2020 04:19:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/convertplug/admin/bsf-core/plugin-installer/admin-functions.php on line 111
+[23-Apr-2020 01:06:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/novaswtm/public_html/netmall.shopping/wp-includes/class-wp-image-editor-imagick.php on line 355
+[11-Jun-2020 12:45:55 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/update-core.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[11-Jun-2020 12:45:58 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/update-core.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[11-Jun-2020 12:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[11-Jun-2020 12:46:33 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[12-Jun-2020 13:20:50 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[18-Jun-2020 14:24:43 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[26-Jun-2020 05:45:00 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[26-Jun-2020 06:31:01 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[06-Jul-2020 02:45:42 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin-ajax.php(22): require_once('/home/novaswtm/...')
+#6 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[08-Jul-2020 05:50:08 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[14-Jul-2020 16:52:13 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin-ajax.php(22): require_once('/home/novaswtm/...')
+#6 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[14-Jul-2020 20:59:56 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin-ajax.php(22): require_once('/home/novaswtm/...')
+#6 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[15-Jul-2020 07:16:57 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin-ajax.php(22): require_once('/home/novaswtm/...')
+#6 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[15-Jul-2020 21:10:46 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[16-Jul-2020 00:58:04 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[16-Jul-2020 14:17:00 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[20-Jul-2020 21:39:23 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[21-Jul-2020 16:48:21 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[25-Jul-2020 12:45:53 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[28-Jul-2020 09:55:37 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
+[28-Jul-2020 09:55:54 UTC] PHP Fatal error:  Uncaught Error: Class 'RWMB_Update_Option' not found in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php:105
+Stack trace:
+#0 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/meta-box.php(30): RWMB_Loader->init()
+#1 /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/gp-social-share.php(13): require_once('/home/novaswtm/...')
+#2 /home/novaswtm/public_html/netmall.shopping/wp-settings.php(371): include_once('/home/novaswtm/...')
+#3 /home/novaswtm/public_html/netmall.shopping/wp-config.php(90): require_once('/home/novaswtm/...')
+#4 /home/novaswtm/public_html/netmall.shopping/wp-load.php(37): require_once('/home/novaswtm/...')
+#5 /home/novaswtm/public_html/netmall.shopping/wp-admin/admin.php(34): require_once('/home/novaswtm/...')
+#6 /home/novaswtm/public_html/netmall.shopping/wp-admin/index.php(10): require_once('/home/novaswtm/...')
+#7 {main}
+  thrown in /home/novaswtm/public_html/netmall.shopping/wp-content/plugins/gp-social-share-svg/inc/metabox/meta-box/inc/loader.php on line 105
